@@ -62,7 +62,7 @@ Aplicação desenvolvida com Next.js integrando catálogo de produtos, gerenciam
 
 **Tecnologias**
 
-Next.js • TypeScript • Node.js • MongoDB
+Next.js • TypeScript • Node.js
 
 ---
 
