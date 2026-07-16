@@ -1,4 +1,3 @@
-<div align="center">
 
 # Vinicius Juarez
 
@@ -18,7 +17,6 @@ Desenvolvo aplicações web com **React**, **Next.js** e **TypeScript**, prioriz
   </a>
 </p>
 
-</div>
 
 ---
 
@@ -58,7 +56,7 @@ Desenvolvo aplicações web com **React**, **Next.js** e **TypeScript**, prioriz
 
 ## Projetos em destaque
 
-### 📦 Component Library
+### Component Library
 
 Biblioteca React publicada no **NPM**, criada para centralizar componentes reutilizáveis com foco em consistência, tipagem e manutenção.
 
@@ -66,7 +64,7 @@ Biblioteca React publicada no **NPM**, criada para centralizar componentes reuti
 
 ---
 
-### 🛒 E-commerce
+### E-commerce
 
 Aplicação completa desenvolvida com Next.js, incluindo gerenciamento de estado, integração com APIs e persistência de dados.
 
@@ -74,7 +72,7 @@ Aplicação completa desenvolvida com Next.js, incluindo gerenciamento de estado
 
 ---
 
-### 🌐 Portfolio
+### Portfolio
 
 Projeto utilizado como laboratório para explorar arquitetura de componentes, otimização de performance, SEO e boas práticas de desenvolvimento.
 
