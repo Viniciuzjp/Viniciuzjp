@@ -1,125 +1,110 @@
-# Hi, I'm Vinicius Juarez 👋
+# Olá, eu sou o Vinicius 👋
 
-**Front-End Developer**
+Construo aplicações web utilizando **React**, **Next.js** e **TypeScript**, buscando soluções simples, previsíveis e fáceis de evoluir.
 
-I build modern, responsive and scalable web applications using React, Next.js and TypeScript, focusing on clean architecture, reusable components and great user experience.
+Meu interesse está menos nas ferramentas e mais nas decisões técnicas por trás delas: organização do código, tipagem, arquitetura front-end, integração entre aplicações e qualidade de software.
 
 ---
 
-## Tech Stack
-
-### Front-end
+## Atualmente trabalhando com
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass" />
-</p>
-
-### Back-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,figma,photoshop" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,git,github,vercel" />
 </p>
 
 ---
 
-## What I work with
+## Como gosto de desenvolver
 
-* Responsive Interfaces
-* React & Next.js Applications
-* TypeScript
-* REST APIs
-* Component Libraries
-* Design Systems
-* Performance Optimization
-* SEO
-* Reusable UI Components
+* Resolver problemas antes de escrever código.
+* Priorizar simplicidade em vez de abstrações desnecessárias.
+* Utilizar TypeScript para tornar o código mais previsível.
+* Construir componentes reutilizáveis e fáceis de manter.
+* Organizar projetos pensando na evolução do produto.
+* Escrever código legível para quem continuará o desenvolvimento.
+* Buscar equilíbrio entre performance, experiência do usuário e manutenibilidade.
 
 ---
 
-## GitHub Analytics
+## O que você encontrará neste perfil
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viniciuzjp&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+Os repositórios deste GitHub representam minha evolução como desenvolvedor e exploram temas como:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzjp&layout=compact&theme=transparent&hide_border=true"/>
-</p>
+* aplicações completas em React e Next.js;
+* bibliotecas de componentes;
+* integração com APIs;
+* gerenciamento de estado;
+* organização de projetos;
+* componentização;
+* tipagem com TypeScript;
+* boas práticas de desenvolvimento;
+* performance e SEO.
+
+Cada projeto foi desenvolvido com o objetivo de entender não apenas **como implementar uma solução**, mas também **por que determinadas decisões técnicas fazem sentido em diferentes contextos**.
 
 ---
 
-## Activity
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Viniciuzjp&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-## Featured Projects
+## Projetos em destaque
 
 ### Component Library
 
-Reusable React components focused on scalability, accessibility and design systems.
+Biblioteca React publicada no NPM, desenvolvida com foco em reutilização, tipagem forte, consistência visual e facilidade de manutenção.
 
-**Stack**
+**Tecnologias**
 
 React • TypeScript • SCSS • NPM
 
 ---
 
-### E-Commerce
+### E-commerce
 
-Complete e-commerce built with Next.js, TypeScript and MongoDB.
+Aplicação desenvolvida com Next.js integrando catálogo de produtos, gerenciamento de estado, APIs e banco de dados.
 
-**Features**
+**Tecnologias**
 
-* Product Catalog
-* Dynamic Routes
-* Shopping Cart
-* Responsive Layout
-* API Integration
+Next.js • TypeScript • Node.js • MongoDB
 
 ---
 
-### Portfolio
+### Portfólio
 
-Modern developer portfolio focused on performance, SEO and clean UI.
-
----
-
-## Currently Learning
-
-* Advanced React Patterns
-* Software Architecture
-* Testing
-* Node.js
-* Accessibility
+Projeto criado para reunir aplicações, experimentos e estudos, priorizando performance, SEO, responsividade e arquitetura de componentes.
 
 ---
 
-## Connect with me
+## Atualmente estudando
+
+* Arquitetura Front-end
+* Engenharia de Software
+* Padrões de Projeto
+* Performance Web
+* Testes
+* Acessibilidade
+* Escalabilidade de aplicações React
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Viniciuzjp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzjp&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Contato
 
 <p>
-<a href="https://github.com/Viniciuzjp">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <a href="www.linkedin.com/in/vinicius-juarez-092b59276">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<a href="https://linkedin.com/in/SEU-LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="mailto:viniciusjuarez720@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="https://github.com/Viniciuzjp">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
