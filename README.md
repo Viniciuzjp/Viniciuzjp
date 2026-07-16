@@ -6,7 +6,7 @@
 Desenvolvo aplicações web com **React**, **Next.js** e **TypeScript**, priorizando código simples, previsível e fácil de manter.
 
 <p>
-  <a href="[www.linkedin.com/in/vinicius-juarez-092b59276](https://www.linkedin.com/in/vinicius-juarez-092b59276/)">
+  <a href="https://www.linkedin.com/in/vinicius-juarez-092b59276">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:viniciusjuarez720@gmail.com">
