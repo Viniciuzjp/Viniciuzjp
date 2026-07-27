@@ -1,102 +1,97 @@
-
 # Vinicius Juarez
 
 **Front-end Developer**
 
-Desenvolvo aplicações web com **React**, **Next.js** e **TypeScript**, priorizando código simples, previsível e fácil de manter.
+Desenvolvo aplicações web utilizando React, Next.js e TypeScript, com foco em componentes reutilizáveis, integração com APIs e organização de código.
 
-<p>
-  <a href="https://www.linkedin.com/in/vinicius-juarez-092b59276">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:viniciusjuarez720@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/Viniciuzjp">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
+Grande parte dos meus projetos é construída sobre um Design System próprio e uma biblioteca de componentes publicada no NPM, utilizada como base para manter consistência entre diferentes aplicações.
 
 ---
 
 ## Stack Principal
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,mongodb,git,github,vercel"/>
-
-</p>
+- React
+- Next.js
+- TypeScript
+- Node.js
+- SCSS
+- Shopify Storefront API
+- Git
+- GitHub
 
 ---
 
 ## Como desenvolvo
 
-* Entender o problema antes de definir a solução.
-* Priorizar simplicidade em vez de abstrações desnecessárias.
-* Utilizar TypeScript para tornar o código mais previsível.
-* Organizar projetos pensando na evolução e manutenção do software.
-* Escrever componentes reutilizáveis quando eles realmente agregam valor.
-* Buscar equilíbrio entre legibilidade, desempenho e experiência do usuário.
+Minha abordagem prioriza soluções simples e fáceis de evoluir.
+
+Alguns princípios que procuro seguir durante o desenvolvimento:
+
+- compreender o problema antes da implementação;
+- utilizar TypeScript para reduzir erros e tornar a API do código mais previsível;
+- separar responsabilidades entre componentes, lógica e serviços;
+- reutilizar componentes quando isso melhora a manutenção do projeto;
+- escrever código legível antes de buscar otimizações prematuras;
+- aproveitar os recursos do Next.js para SEO e performance.
 
 ---
 
 ## Áreas de interesse
 
-* Arquitetura Front-end
-* Engenharia de Software
-* Qualidade de Código
-* TypeScript
-* Integração com APIs
-* Performance Web
-* SEO
-* Design Patterns
+- Arquitetura Front-end
+- Design Systems
+- Engenharia de Software
+- Componentização
+- TypeScript
+- Integração com APIs
+- SEO
+- Performance Web
+- Padrões de Projeto
 
 ---
 
-## Projetos em destaque
+# Projetos
 
-### Component Library
+## Component Library
 
-Biblioteca React publicada no **NPM**, criada para centralizar componentes reutilizáveis com foco em consistência, tipagem e manutenção.
+Biblioteca React publicada no NPM para centralizar componentes reutilizáveis utilizados em diferentes aplicações.
+
+O projeto é desenvolvido com TypeScript e SCSS Modules e serve como base para outros projetos pessoais.
 
 **React · TypeScript · SCSS · NPM**
 
 ---
 
-### E-commerce
+## WebShopCase
 
-Aplicação completa desenvolvida com Next.js, incluindo gerenciamento de estado, integração com APIs e persistência de dados.
+Estudo de um e-commerce headless utilizando Next.js integrado à Shopify Storefront API.
 
-**Next.js · TypeScript · Node.js
+O projeto explora gerenciamento de estado com Context API, persistência utilizando LocalStorage, Design System próprio e organização de uma aplicação React de médio porte.
+
+**Next.js · TypeScript · Shopify · Context API · LocalStorage**
 
 ---
 
-### Portfolio
+## Portfolio
 
-Projeto utilizado como laboratório para explorar arquitetura de componentes, otimização de performance, SEO e boas práticas de desenvolvimento.
+Meu ambiente para experimentar novas abordagens de componentização, organização de projetos, SEO e evolução da biblioteca de componentes.
 
 **React · Next.js · TypeScript**
 
 ---
 
-## GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viniciuzjp&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzjp&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
 ## Atualmente estudando
 
-* Arquitetura de Software
-* Testes automatizados
-* Padrões de Projeto
-* Performance em aplicações React
-* Acessibilidade
-* Boas práticas de engenharia de software
+- Arquitetura de Software
+- Testes automatizados
+- Design Patterns
+- Performance em aplicações React
+- Acessibilidade
+- Boas práticas de engenharia de software
+
+## Atualmente construindo
+
+- Evolução da biblioteca **@av-digital/components**
+- Estruturação de um Design System reutilizável
+- Blueprints e templates para aplicações React
+- Evolução do WebShopCase
