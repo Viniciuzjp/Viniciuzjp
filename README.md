@@ -1,274 +1,229 @@
-<div align="center">
+<!-- ─────────────────────────────  HERO  ───────────────────────────── -->
 
-# Vinicius Juarez
-
-**Front-end Developer · React · Next.js · TypeScript**
-
-Building interfaces, products and developer tools with a focus on  
-**clean architecture · reusable components · performance · real-world applications**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/Viniciuzjp)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-juarez-092b59276)
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white)](https://av-webdigital.com.br)
-
-</div>
-
----
-
-## `01` — About
-
-I'm a developer focused on **modern web applications**, primarily working with the React ecosystem.
-
-My approach is simple:
-
-> **Understand the problem → design the structure → build the interface → refine the experience.**
-
-I enjoy turning ideas into functional products rather than building isolated demos.
-
-Currently focused on:
-
-- Front-end architecture
-- React & Next.js
-- TypeScript
-- Design systems & reusable components
-- Full-stack applications
-- E-commerce
-- APIs & integrations
-- Performance & developer experience
-
----
-
-## `02` — GitHub Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Vinicius Juarez — Front-end Developer" src="./assets/hero-dark.svg" width="100%">
+</picture>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Viniciuzjp&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzjp&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&langs_count=8" />
+[![Portfolio](https://img.shields.io/badge/av--webdigital.com.br-000000?style=flat-square&logo=vercel&logoColor=white)](https://av-webdigital.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-juarez-092b59276)
+![Profile views](https://komarev.com/ghpvc/?username=Viniciuzjp&style=flat-square&color=000000&label=views)
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- ─────────────────────────────  ABOUT  ───────────────────────────── -->
 
-<img src="https://streak-stats.demolab.com?user=Viniciuzjp&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=71717a&currStreakNum=ffffff&sideNums=ffffff" />
+<table>
+<tr>
+<td width="58%" valign="top">
 
-</div>
+### `~/about`
 
----
+I build **modern web applications** in the React ecosystem — from the component
+API to the deployed product.
 
-## `03` — What I Build
+I care less about isolated demos and more about software with a
+**reason to exist**: real data, state, auth, APIs and a UI that holds up in production.
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   PRODUCT DEVELOPMENT                                        │
-│                                                              │
-│   Interfaces       E-commerce       Developer Tools          │
-│   SaaS             APIs              Design Systems           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+```
+understand → structure → build → refine
 ```
 
-I prefer projects where the code has a **reason to exist**.
+</td>
+<td width="42%" valign="top">
 
-Instead of creating only visual prototypes, I try to build applications with:
+### `~/now`
 
-`real data` · `state management` · `APIs` · `authentication` · `responsive UI` · `deployment`
-
----
-
-## `04` — Selected Projects
-
-### ◼ WebShopcase
-
-**E-commerce application**
-
-A complete e-commerce experience built around a modern React/Next.js stack, with product browsing, categories, cart flows and API integration.
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Express` `REST API`
-
-→ [Repository](https://github.com/Viniciuzjp/WebShopcase)  
-→ [Live project](https://www.tougeclub.store/)
-
----
-
-### ◼ AV Digital Components
-
-**React component library**
-
-A reusable component library created to reduce duplication between applications and establish consistent interfaces.
-
-The project focuses on predictable APIs, TypeScript, composability and low configuration.
-
-Currently includes components such as:
-
-`Button` · `Card` · `Container` · `Dropdown` · `Flex` · `Grid` · `Input` · `Section` · `Spinner` · `Stack` · `Text`
-
-**Stack**
-
-`React` `TypeScript` `Nx` `NPM`
-
-→ [Repository](https://github.com/Viniciuzjp/AVDigital_components)
-
----
-
-### ◼ CV Builder
-
-**Resume creation platform**
-
-A web application focused on creating and customizing professional resumes with live preview, templates, typography, colors and PDF generation.
-
-The project also explores more advanced concerns such as component architecture, state management and reusable UI.
-
-**Stack**
-
-`React` `Next.js` `TypeScript` `Node.js` `MongoDB`
-
-→ [GitHub](https://github.com/Viniciuzjp)
-
----
-
-### ◼ Portfolio
-
-**Personal developer platform**
-
-A portfolio designed not only to present projects, but also to communicate how I approach development and product building.
-
-**Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-→ [Repository](https://github.com/Viniciuzjp/Portf-lio)
-
----
-
-## `05` — Tech Stack
-
-### Front-end
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/Tailwind-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![HTML](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
-
-</div>
-
-### Back-end & Data
-
-<div align="left">
-
-![Node](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-18181B?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-</div>
-
-### Tools & Ecosystem
-
-<div align="left">
-
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-18181B?style=flat-square&logo=npm&logoColor=CB3837)
-![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-18181B?style=flat-square&logo=shopify&logoColor=96BF48)
-![Nx](https://img.shields.io/badge/Nx-18181B?style=flat-square&logo=nx&logoColor=ffffff)
-
-</div>
-
----
-
-## `06` — Engineering Principles
-
-```text
-01  Solve the problem before writing the code.
-
-02  Prefer simple architecture over unnecessary abstraction.
-
-03  Separate UI, business logic and services.
-
-04  Use TypeScript to make APIs predictable.
-
-05  Build reusable components when reuse actually improves the system.
-
-06  Optimize the user experience, not just the Lighthouse score.
-
-07  Keep projects understandable enough to evolve.
+```yaml
+building:  real-world web apps
+learning:
+  - advanced Next.js architecture
+  - backend & API design
+  - scalable component systems
+exploring: [SaaS, AI-assisted dev, remote]
 ```
 
----
+</td>
+</tr>
+</table>
 
-## `07` — Currently
+<!-- ─────────────────────────────  STACK  ───────────────────────────── -->
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  Building                                                   │
-│  └─ Real-world web applications                            │
-│                                                            │
-│  Learning                                                   │
-│  └─ Advanced React / Next.js architecture                  │
-│  └─ Backend & API design                                   │
-│  └─ Scalable component systems                             │
-│                                                            │
-│  Exploring                                                  │
-│  └─ SaaS                                                     │
-│  └─ AI-assisted development                                │
-│  └─ International / remote development                     │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
----
-
-## `08` — Open Source
-
-One of my current projects is **@av-digital/components**, a React component library designed around reusable primitives and predictable TypeScript APIs.
-
-The goal is to gradually evolve it from a component collection into a broader ecosystem of:
-
-`components` → `patterns` → `wireframes` → `templates` → `application building blocks`
-
----
-
-## `09` — Activity
+### `~/stack`
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Viniciuzjp&bg_color=00000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true)
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" height="44" alt="Front-end"/></a>
+<br/>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" height="44" alt="Back-end"/></a>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,npm,vercel,nx&theme=dark" height="44" alt="Tooling"/>
+
+<sub>
+<code>front-end</code>&nbsp; React · Next.js · TypeScript · Tailwind &nbsp;│&nbsp;
+<code>back-end</code>&nbsp; Node · Express · MongoDB · Firebase &nbsp;│&nbsp;
+<code>tooling</code>&nbsp; Git · NPM · Vercel · Nx · Shopify
+</sub>
 
 </div>
 
----
+<br/>
 
-## `10` — Let's Connect
+<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
+
+### `~/stats`
 
 <div align="center">
 
-**Interested in building something?**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Viniciuzjp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=false&bg_color=00000000&title_color=ededed&text_color=a1a1aa&icon_color=ededed&ring_color=ededed&border_radius=8">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Viniciuzjp&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=09090b&text_color=52525b&icon_color=09090b&ring_color=09090b&border_radius=8">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzjp&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ededed&text_color=a1a1aa&border_radius=8">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuzjp&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=09090b&text_color=52525b&border_radius=8">
+</picture>
 
-I'm open to connecting with developers, companies and people working on interesting products.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Viniciuzjp&hide_border=true&background=00000000&ring=ededed&fire=ededed&currStreakNum=ededed&sideNums=ededed&currStreakLabel=ededed&sideLabels=a1a1aa&dates=71717a&stroke=27272a">
+  <img alt="Commit streak" src="https://streak-stats.demolab.com?user=Viniciuzjp&hide_border=true&background=00000000&ring=09090b&fire=09090b&currStreakNum=09090b&sideNums=09090b&currStreakLabel=09090b&sideLabels=52525b&dates=a1a1aa&stroke=e4e4e7">
+</picture>
+
+</div>
+
+<!-- ─────────────────────────────  PROJECTS  ───────────────────────────── -->
+
+### `~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**◼ WebShopcase** &nbsp;<sub><code>e-commerce</code></sub>
+
+Full e-commerce flow — catalog, categories, cart and REST API integration.
+
+<sub>`Next.js` `TypeScript` `Tailwind` `Express`</sub>
+
+[Code](https://github.com/Viniciuzjp/WebShopcase) · [**Live ↗**](https://www.tougeclub.store/)
+
+</td>
+<td width="50%" valign="top">
+
+**◼ @av-digital/components** &nbsp;<sub><code>open source</code></sub>
+
+React component library built on primitives and predictable TypeScript APIs.
+
+<sub>`React` `TypeScript` `Nx` `NPM`</sub>
+
+[Code](https://github.com/Viniciuzjp/AVDigital_components)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◼ CV Builder** &nbsp;<sub><code>saas</code></sub>
+
+Resume editor with live preview, templates, typography, colors and PDF export.
+
+<sub>`Next.js` `TypeScript` `Node.js` `MongoDB`</sub>
+
+[Profile](https://github.com/Viniciuzjp)
+
+</td>
+<td width="50%" valign="top">
+
+**◼ Portfolio** &nbsp;<sub><code>personal</code></sub>
+
+Where projects meet process — how I think about building products.
+
+<sub>`Next.js` `TypeScript` `Tailwind`</sub>
+
+[Code](https://github.com/Viniciuzjp/Portf-lio) · [**Live ↗**](https://av-webdigital.com.br)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Inside <code>@av-digital/components</code></b> — roadmap</summary>
+<br/>
+
+```tsx
+import { Container, Stack, Text, Button } from "@av-digital/components";
+
+export function Hero() {
+  return (
+    <Container>
+      <Stack gap="md">
+        <Text as="h1" size="xl">Ship faster.</Text>
+        <Button variant="primary">Get started</Button>
+      </Stack>
+    </Container>
+  );
+}
+```
+
+```
+components  ──▶  patterns  ──▶  wireframes  ──▶  templates  ──▶  app building blocks
+   ✓ now           next
+```
+
+Available today: `Button` `Card` `Container` `Dropdown` `Flex` `Grid` `Input` `Section` `Spinner` `Stack` `Text`
+
+</details>
+
+<!-- ─────────────────────────────  PRINCIPLES  ───────────────────────────── -->
+
+<details>
+<summary><b>Engineering principles</b></summary>
+<br/>
+
+| # | Principle |
+|:-:|:--|
+| `01` | Solve the problem before writing the code. |
+| `02` | Prefer simple architecture over unnecessary abstraction. |
+| `03` | Separate UI, business logic and services. |
+| `04` | Use TypeScript to make APIs predictable. |
+| `05` | Build reusable components when reuse actually improves the system. |
+| `06` | Optimize the user experience, not just the Lighthouse score. |
+| `07` | Keep projects understandable enough to evolve. |
+
+</details>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Viniciuzjp)
+<!-- ─────────────────────────────  ACTIVITY  ───────────────────────────── -->
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-juarez-092b59276)
+### `~/activity`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Viniciuzjp&bg_color=00000000&color=a1a1aa&line=ededed&point=ffffff&area=true&area_color=ededed&hide_border=true&hide_title=true">
+  <img alt="Contribution graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Viniciuzjp&bg_color=00000000&color=52525b&line=09090b&point=09090b&area=true&area_color=09090b&hide_border=true&hide_title=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viniciuzjp/Viniciuzjp/output/snake-dark.svg">
+  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/Viniciuzjp/Viniciuzjp/output/snake-light.svg">
+</picture>
+
+<!-- ─────────────────────────────  FOOTER  ───────────────────────────── -->
 
 <br/>
 
-<sub>Built with curiosity, shipped with code.</sub>
+<div align="center">
+
+**Building something interesting?** Let's talk.
+
+[![Portfolio](https://img.shields.io/badge/Visit_portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://av-webdigital.com.br)
+[![LinkedIn](https://img.shields.io/badge/Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-juarez-092b59276)
+
+<sub><code>built with curiosity · shipped with code</code></sub>
 
 </div>
