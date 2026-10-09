@@ -104,7 +104,7 @@ exploring: [SaaS, AI-assisted dev, remote]
 <tr>
 <td width="50%" valign="top">
 
-**◼ WebShopcase** &nbsp;<sub><code>e-commerce</code></sub>
+**◼ tougeclub.store** &nbsp;<sub><code>e-commerce</code></sub>
 
 Full e-commerce flow — catalog, categories, cart and REST API integration.
 
@@ -128,7 +128,7 @@ React component library built on primitives and predictable TypeScript APIs.
 <tr>
 <td width="50%" valign="top">
 
-**◼ CV Builder** &nbsp;<sub><code>saas</code></sub>
+**◼ Sheetsty.website** &nbsp;<sub><code>saas</code></sub>
 
 Resume editor with live preview, templates, typography, colors and PDF export.
 
